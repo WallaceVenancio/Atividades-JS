@@ -8,7 +8,7 @@ Este repositório reúne exercícios e projetos simples criados como parte do me
 
 - Variáveis e tipos de dados
 - Operadores lógicos e aritméticos
-- Estruturas de decisão (`if`, `else`, `switch`)
+- Estruturas de decisão (`if`, `else`,)
 - Laços de repetição (`for`, `while`)
 - Funções
 - Manipulação de arrays e objetos
