@@ -1,26 +1,18 @@
-# 🟨 Atividades-JS
+# Atividades JavaScript 🚀
 
-Repositório com atividades práticas desenvolvidas em **JavaScript**, com foco em aprendizado, lógica de programação e desenvolvimento de habilidades fundamentais para iniciantes.
+Este repositório contém atividades práticas de JavaScript desenvolvidas como parte dos meus estudos em programação.
 
-## 📚 Sobre o Projeto
+## 📁 Estrutura
 
-Este repositório reúne exercícios e projetos simples criados como parte do meu processo de estudo e prática da linguagem JavaScript. Cada atividade tem como objetivo aplicar conceitos essenciais como:
+- `atividade-1/` — Descrição da primeira atividade
+- `atividade-2/` — Descrição da segunda atividade
+- `...` — Novas atividades serão adicionadas com o tempo
 
-- Variáveis e tipos de dados
-- Operadores lógicos e aritméticos
-- Estruturas de decisão (`if`, `else`,)
-- Laços de repetição (`for`, `while`)
-- Funções
-- Manipulação de arrays e objetos
-- Eventos e manipulação do DOM (em atividades com HTML)
+## 🛠️ Tecnologias
 
-## 📁 Estrutura do Repositório
+- JavaScript (JS)
+- HTML e CSS (se aplicável)
 
-```bash
-Atividades-JS/
-├── atividade01/
-│   └── index.html
-│   └── script.js
-├── atividade02/
-│   └── ...
-└── ...
+## 📌 Objetivo
+
+Praticar e consolidar conhecimentos em lógica de programação, manipulação do DOM e outros conceitos fundamentais do JavaScript.
