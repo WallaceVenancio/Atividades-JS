@@ -4,8 +4,8 @@ Este repositório contém atividades práticas de JavaScript desenvolvidas como 
 
 ## 📁 Estrutura
 
-- `atividade-1/` — Descrição da primeira atividade
-- `atividade-2/` — Descrição da segunda atividade
+- `aalugames/` — Locadora de jogos de tabuleiro online
+- `sorteador-numeros/` — Sorteador de números online
 - `...` — Novas atividades serão adicionadas com o tempo
 
 ## 🛠️ Tecnologias
