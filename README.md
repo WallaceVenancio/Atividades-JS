@@ -13,7 +13,7 @@ Este repositório contém atividades práticas de JavaScript desenvolvidas como 
 ## 🛠️ Tecnologias
 
 - JavaScript (JS)
-- HTML e CSS (se aplicável)
+- HTML e CSS (Ambos não foram feitos por minha pessoa, porém há interação com o HTML no JS)
 
 ## 📌 Objetivo
 
