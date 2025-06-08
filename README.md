@@ -8,6 +8,7 @@ Este repositório contém atividades práticas de JavaScript desenvolvidas como 
 - `alugames/` — Locadora de jogos de tabuleiro online
 - `sorteador-numeros/` — Sorteador de números online
 - `carrinho-compras/` — Carrinho de compras de produtos 
+- `ingresso/` — Site de ingressos para compra de um show
 - `...` — Novas atividades serão adicionadas com o tempo
 
 ## 🛠️ Tecnologias
