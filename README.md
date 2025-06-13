@@ -14,7 +14,7 @@ Este repositório contém atividades práticas de JavaScript desenvolvidas duran
 ## 🛠️ Tecnologias utilizadas
 
 - **JavaScript (JS)**
-- **HTML e CSS** (fornecidos pela plataforma ou professor; foco principal no JS)
+- **HTML e CSS** (fornecidos pelo professor; foco principal no JS)
 
 ## 🎯 Objetivo
 
