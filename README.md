@@ -9,11 +9,12 @@ Este repositório contém atividades práticas de JavaScript desenvolvidas como 
 - `sorteador-numeros/` — Sorteador de números online
 - `carrinho-compras/` — Carrinho de compras de produtos 
 - `ingresso/` — Site de ingressos para compra de um show
+- `logica-de-programacao-node-js/` — Logica de programação no Node.js (const, function, => e condicionais)
 - `...` — Novas atividades serão adicionadas com o tempo
 
 ## 🛠️ Tecnologias
 
-- JavaScript (JS)
+- JavaScript (JS) e Node.js
 - HTML e CSS (Ambos não foram feitos por minha pessoa, porém há interação com o HTML no JS)
 
 ## 📌 Objetivo
